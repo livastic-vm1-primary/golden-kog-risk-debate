@@ -1,0 +1,3 @@
+Golden Kog risk debate module
+
+This independent implementation adapts the multi-agent debate pattern described by TradingAgents, copyright TauricResearch, under Apache License 2.0. No trader or portfolio-manager component from TradingAgents is included.
